@@ -5,6 +5,3 @@ window.onload = function myLoadFunction() {
 };
 
 // The listener function here
-window.addEventListener("click", () =>{
-	alert("woohoo!");
-})
